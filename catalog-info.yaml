@@ -5,7 +5,7 @@ metadata:
   description: A modern, responsive frontend application built with React and TypeScript
   tags:
     - react
-    - typescript
+    - react-hooks
   annotations:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: EMC-Backstage/react-app1
