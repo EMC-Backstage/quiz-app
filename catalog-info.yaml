@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: react-app1
+  description: A modern, responsive frontend application built with React and TypeScript
+  tags:
+    - react
+    - typescript
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: EMC-Backstage/react-app1
+spec:
+  type: language
+  lifecycle: development
+  owner: EMC-Backstage
+  system: frontend
