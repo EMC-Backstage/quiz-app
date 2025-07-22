@@ -12,5 +12,5 @@ metadata:
 spec:
   type: language
   lifecycle: development
-  owner: EMC-Backstage
+  owner: frontend-team
   system: frontend
