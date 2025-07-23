@@ -10,7 +10,7 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     github.com/project-slug: EMC-Backstage/react-app1
 spec:
-  type: language
+  type: website
   lifecycle: development
   owner: frontend-team
-  system: frontend
+  system: frontend-platform
