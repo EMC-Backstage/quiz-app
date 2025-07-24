@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: react-app1
+  name: Quiz-app
   description: A modern, responsive frontend application built with React and TypeScript
   tags:
     - react
