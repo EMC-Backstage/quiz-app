@@ -8,4 +8,4 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
     - name: Run a Script
-      run: echo "This is a manual dispatch workflow"
+      run: echo "This is a manual dispatch workflow.."
