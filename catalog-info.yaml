@@ -8,7 +8,7 @@ metadata:
     - react-hooks
   annotations:
     backstage.io/techdocs-ref: dir:.
-    github.com/project-slug: EMC-Backstage/react-app1
+    github.com/project-slug: EMC-Backstage/quiz-app
 spec:
   type: website
   lifecycle: development
